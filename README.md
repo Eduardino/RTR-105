@@ -20,3 +20,4 @@ Datormaciba (pamatkurss) elektroniska klade
    18  history
    19  man uname
    20  history
+izmantot skaistumkopshanas panemienus
